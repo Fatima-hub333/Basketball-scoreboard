@@ -16,11 +16,54 @@ body {
 
 .container {
   background: linear-gradient(#1d3557, #457b9d);
-  width: 30%;
+  width: 300px;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 250px auto;
+  margin: 200px auto;
+  color: white;
+  padding: 20px 15px 65px 15px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.score {
+  background: black;
+  width: 60px;
+  height: 60px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  font-family: 'Cursed Timer ULiL';
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 70px;
+  text-align: center;
+  color: #F94F6D;
+  margin-top: 0;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+button {
+  border: 2px solid #a8dadc;
+  border-radius: 5px;
+  background: transparent;
+  color: #a8dadc;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 600px){
+  .container {
+  background: linear-gradient(#1d3557, #457b9d);
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 200px auto;
   color: white;
   padding: 20px 15px 65px 15px;
   border-radius: 20px;
@@ -34,6 +77,17 @@ body {
   border-radius: 5px;
   margin-bottom: 25px;
   font-family: 'Cursed Timer ULiL';
+  font-weight: 400;
+  font-size: 90px;
+  line-height: 127px;
+  text-align: center;
+  color: #F94F6D;
+  margin-top: 0;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
 }
 
 button {
@@ -42,4 +96,6 @@ button {
   background: transparent;
   color: #a8dadc;
   padding: 5px;
+  margin: 0 5px 0 5px;
+}
 }
