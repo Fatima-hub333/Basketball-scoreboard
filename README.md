@@ -11,7 +11,7 @@ Users should be able to:
 ### Screenshot
 
 ![](mobile-view.png)
-![](./images/Product-Review.png)
+![](desktop-view.png)
 
 ### Links
 
