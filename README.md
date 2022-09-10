@@ -1,7 +1,5 @@
 # Basketball-scoreboard
 Basketball scoreboard game where implemented the JavaScript functions.
-## Overview
-Created Responsive Product Review card component with using HTML5 semantics & CSS Flexbox model.
 
 ### The challenge
 
@@ -12,13 +10,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Mobile-view.png)
+![](mobile-view.png)
 ![](./images/Product-Review.png)
 
 ### Links
 
 - Solution URL: [Solution URL is here](https://github.com/Fatima-hub333/Basketball-scoreboard.git)
-- Live Site URL: [Live site URL is here](https://lucky-cheesecake-38b975.netlify.app)
+- Live Site URL: [Live site URL is here](https://stellar-semifreddo-c43fbf.netlify.app)
 
 ## My process
 I create html template first after that I started stylin components one by one.
