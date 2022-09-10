@@ -9,8 +9,6 @@ Users should be able to:
 - Reset Score
 
 ### Screenshot
-
-![](mobile-view.png)
 ![](desktop-view.png)
 
 ### Links
